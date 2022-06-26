@@ -6,10 +6,17 @@ to play the game you need to download all the files downloaded to the folder 'PL
 ***
 rezult: 
 it's start of game
+
 ![](https://github.com/ajdivotf/bunny/blob/main/results/start.png)
+
 the player has already scored three points and lost two lives on the first level
+
 ![](https://github.com/ajdivotf/bunny/blob/main/results/not%20start.png)
+
 it's level two
+
 ![](https://github.com/ajdivotf/bunny/blob/main/results/level%20two.png)
+
 the player finished the game with 14 points
+
 ![](https://github.com/ajdivotf/bunny/blob/main/results/complete.png)
